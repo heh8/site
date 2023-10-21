@@ -1,0 +1,27 @@
+.header {
+    font-family: 'Montserrat';  
+    width: 1920px;
+    height: 92px;
+    min-width: 1000px;
+    }
+.header img{
+    margin-left: 195px;
+    margin-top: 26px;
+}
+#menu_list li{
+    position: relative;
+    left:455px;
+    top:-45px;
+    display: inline;
+}
+li{
+    size: 7px;
+}
+.line {
+    width: 1922px;
+    height: 5px;
+    margin-left: -10px;
+    background: #2A206F;
+
+}
+
